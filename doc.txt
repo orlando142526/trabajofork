@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Practica de daw en proceso</h1>
-    <p>Cambios para la nueva rama</p>
+    <h1>Practica de daw segundo repositorio</h1>
 </body>
 </html>
