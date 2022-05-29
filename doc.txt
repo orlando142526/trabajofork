@@ -9,7 +9,6 @@
 <body>
     	<h1>Modificando la practica</h1>
 	<h2>Modificación para el fork</h2>
-	<h3>segundo commit fork</h3>
 	<p>creacion de pull-request</p>
 </body>
 </html>
